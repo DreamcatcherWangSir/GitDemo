@@ -23,4 +23,4 @@ hello xin! hello git!
 hello xin! hello git!
 hello xin! hello git!
 hello xin! hello git!
-hello xin! hello git!
+hello xin! hello git! hot-fix test
